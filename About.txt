@@ -1,0 +1,19 @@
+﻿* This is a project by Maryam, Bushra, Nameera *
+
+Text Editor is developed by using Python and it's modules like tkinter and Window with DATA STRUCTURES AND ALGORITHMS. The Following are the functionality of the text editor.
+
+        * It supports the basic text operations like Cut, Copy, Paste, Undo, Redo, and also basic file operations like New, Save, and Open.
+        * It has Night-mode feature to work in low light.
+        * It has the power of unlimited Undo and Redo operations.
+        * It supports almost all types of files.
+
+ You can perform the following operations:
+
+        * New File - Ctrl+N
+        * Open File - Ctrl+O
+        * Save File - Ctrl+S
+        * Undo - Ctrl+Z
+        * Redo - Ctrl+Shift+Z
+        * Exit - Ctrl+X
+
+ For any queries feedback you can write me at maryamraza738@gmail.com .....
