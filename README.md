@@ -42,10 +42,4 @@ This was developed for exploring the Python GUI and to enhance my DSA skills.
 
 ![enter image description here](https://github.com/iampiyushjain/Text-Editor/blob/main/screenshots/operation.gif)
 
-## Contributing
 
-Please see  [CONTRIBUTING.md](https://github.com/iampiyushjain/Text-Editor/blob/master/CONTRIBUTING.md)  for more details. Or feel free to reach out to me via  [mail](mailto:piyushjain7024@gmail.com)
-
-## [](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#license)License
-
-Text Editor is licensed under MIT license. Please see  [LICENSE.md](https://github.com/iampiyushjain/Text-Editor/blob/master/LICENSE.md)  for more details.
